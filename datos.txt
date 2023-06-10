@@ -1,0 +1,9 @@
+API KEY
+"package": "com.yourcompany.yourappname",
+
+
+Accessing credentials for luar in project casa-curtiduria
+Google Certificate Fingerprint:     F4:1A:1D:09:CD:59:22:DF:40:AE:D9:B3:44:31:A2:8D:98:4C:25:98
+Google Certificate Hash (SHA-1):    F41A1D09CD5922DF40AED9B34431A28D984C2598
+Google Certificate Hash (SHA-256):  A0E6D7DD5E8A92D39402CD9B74D687A04B8CCAB4F0DCDF2881E547C20E5B20B6
+Facebook Key Hash:                  9BodCc1ZIt9ArtmzRDGijZhMJZg=
